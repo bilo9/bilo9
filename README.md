@@ -3,8 +3,8 @@
 - 🔭 I’m currently trying to improve my skills.
 - 🌱 I’m currently learning about neural networks
 
-  
-   ### Skills ⚡
+
+### Skills ⚡ :
   
 ## Cyber security
 
