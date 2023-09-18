@@ -2,10 +2,12 @@
 
 - 🔭 I’m currently trying to get better at programming
 - 🌱 I’m currently learning machine learning
+
+
   
 - ## Skills ⚡
   
-  Cyber security
+## Cyber security
 
 - Network security
 - Web application security
@@ -13,9 +15,13 @@
 - Incident response
 - Security assessment and penetration testing
 
-  Programming
+  [![Cybersecurity Expert](https://img.shields.io/badge/Cybersecurity-Expert-blue)]
+
+## Programming
+  
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
-![Java](https://img.shields.io/badge/Java-Proficient-orange)
+![CSS](https://img.shields.io/badge/CSS-Proficient-blue)
 ![SQL](https://img.shields.io/badge/SQL-Proficient-lightgrey)
 
