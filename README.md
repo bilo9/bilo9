@@ -23,6 +23,7 @@
   - JavaScript
   - CSS
   - SQL
+
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
@@ -31,4 +32,4 @@
 
 ## other
 
-**RESTful API Design:** I am experienced in designing RESTful APIs that follow best practices, including resource naming conventions, HTTP method usage, and proper handling of headers and status codes.
+**RESTful API Design:** I am experienced in designing RESTful APIs.
