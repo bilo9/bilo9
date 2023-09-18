@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**bilo9/bilo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently trying to get better at programming
+- 🌱 I’m currently learning machine learning
+  
+- ## Skills ⚡
+  
+  Cyber security
 
-Here are some ideas to get you started:
+- Network security
+- Web application security
+- Cryptography
+- Incident response
+- Security assessment and penetration testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Programming
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
+![Java](https://img.shields.io/badge/Java-Proficient-orange)
+![SQL](https://img.shields.io/badge/SQL-Proficient-lightgrey)
+
