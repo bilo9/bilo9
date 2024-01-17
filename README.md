@@ -23,7 +23,7 @@
   - SQL
     
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Proficient-blue)
 ![Golang](https://img.shields.io/badge/Golang-Expert-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
