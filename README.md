@@ -30,6 +30,4 @@
 ![CSS](https://img.shields.io/badge/CSS-Proficient-blue)
 ![SQL](https://img.shields.io/badge/SQL-Proficient-lightgrey)
 
-## other
 
-**RESTful API Design:** I am experienced in designing RESTful APIs.
