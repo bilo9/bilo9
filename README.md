@@ -9,7 +9,7 @@
 ## Cyber security
 
 - Web Exploitation
-- Device Exploitation
+
 
   ![Cybersecurity Expert](https://img.shields.io/badge/Cybersecurity-Expert-blue)
 
